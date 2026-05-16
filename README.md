@@ -1,62 +1,125 @@
 <div align="center">
 
-<!-- Animated Header -->
-<a href="https://github.com/Mxneeb">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Muneeb%20Ahmad&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Building%20things%20that%20think%20👁️&descAlignY=60&descAlign=50&descSize=18&descColor=8b949e" />
-</a>
-
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Computer+Vision+%26+AI+Developer;Python+%7C+PyQt6+%7C+OpenCV+%7C+ML;Building+smart+desktop+tools;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a192f,100:0d1117&height=220&section=header&text=Muneeb%20Ahmad&fontSize=62&fontColor=64ffda&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%E2%80%94%20CV%20%7C%20Agentic%20Systems%20%7C%20Data%20Science&descAlignY=62&descAlign=50&descSize=18&descColor=8892b0" />
 
 <br/>
 
-<!-- Social Badges -->
-[![GitHub](https://img.shields.io/badge/GitHub-Mxneeb-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mxneeb)
-[![Profile Views](https://komarev.com/ghpvc/?username=Mxneeb&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)](https://github.com/Mxneeb)
-[![Repos](https://img.shields.io/badge/Public%20Repos-14-58a6ff?style=for-the-badge&logo=github)](https://github.com/Mxneeb?tab=repositories)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=64FFDA&center=true&vCenter=true&random=false&width=700&lines=Building+intelligent+agentic+workflows+%F0%9F%A4%96;Edge+AI+%7C+Computer+Vision+%7C+LLM+Fine-tuning;LangChain+%7C+n8n+%7C+CrewAI+%7C+PyTorch+%7C+YOLO;3%2B+Years+in+ML%2C+CV+%26+Data+Engineering;Fiverr+Level+1+Seller+%E2%80%94+Global+AI+Freelancer+%F0%9F%8C%8D" alt="Typing SVG" />
+
+<br/><br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-mxneebb.vercel.app-64ffda?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0a192f)](https://mxneebb.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mxneeb-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a192f)](https://www.linkedin.com/in/mxneeb/)
+[![Fiverr](https://img.shields.io/badge/Fiverr-Level%201%20Seller-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white&labelColor=0a192f)](https://www.fiverr.com/mxneebb)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a192f)](mailto:muneebahmadmuneeb@hotmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Mxneeb&style=for-the-badge&color=64ffda&labelColor=0a192f&label=VISITORS)](https://github.com/Mxneeb)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## `$ fetch --stats muneeb_ahmad`
 
-```python
-developer = {
-    "name":       "Muneeb Ahmad",
-    "alias":      "Mxneeb",
-    "focus":      ["Computer Vision", "AI/ML", "Desktop Apps", "Productivity Tools"],
-    "stack":      ["Python", "PyQt6", "OpenCV", "Tesseract OCR", "PyMuPDF"],
-    "building":   "Smart tools at the intersection of CV and real-world utility",
-    "currently":  "Shipping projects that actually solve problems 🔨",
-}
+```yaml
+name        : Muneeb Ahmad (@Mxneeb)
+role        : Data Scientist & AI/ML Engineer
+experience  : 3+ Years in ML, CV, Data Engineering, and Agentic AI
+status      : Final Year Student — 8th Semester
+freelance   : Fiverr Level 1 Seller (Attained March 2026) ⭐
+core_focus  :
+  - Intelligent agentic workflows & autonomous agent pipelines
+  - Computer vision architectures (edge + cloud)
+  - Predictive data pipelines & analytics systems
+  - State-of-the-art vision models in responsive interfaces
+mission     : "Bridge the gap between complex AI research and real-world utility"
 ```
-
-I build **intelligent desktop applications** powered by computer vision and machine learning. My work focuses on taking complex AI/CV capabilities and wrapping them in clean, usable interfaces that people can actually run.
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 👁️ TextLens — Image & PDF Text Extractor
-[![TextLens](https://github-readme-stats.vercel.app/api/pin/?username=Mxneeb&repo=TextLens-IMG-PDF-Text-Extractor&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/Mxneeb/TextLens-IMG-PDF-Text-Extractor)
+### 👁️ [EYE-CUE — Edge AI Navigation](https://github.com/Mxneeb/EYE-CUE-FYP)
+> **On-device spatial assistance system** for blind and low-vision users. Fuses monocular depth estimation with semantic segmentation, guided by a quantized Gemma 4 running entirely on edge hardware — zero cloud, zero latency.
 
-> **OCR-powered desktop app** — Extracts text from images (PNG, JPG, BMP, TIFF) and PDFs using Tesseract OCR, wrapped in a rich PyQt6 interface with dark/light theming, file history, drag & drop, and async processing.
+**Architecture:**
+- `Dual-Stream` Depth Anything V2 + TopFormer in parallel
+- `Obstacle Fusion` — filters walkable surfaces, flags hazards
+- `Fuzzy Pathfinding` — stable, jitter-free navigation logic
+- `Voice Navigation` — hands-free spoken guidance
+- `SOS Module` — emergency alert with photo + location
+- `On-device LLM` — quantized Gemma 4, no API calls
 
-`Python` `PyQt6` `Tesseract OCR` `OpenCV` `PyMuPDF` `NumPy`
+`Python` `Depth Anything V2` `TopFormer` `YOLO` `Gemma 4` `OpenCV` `Fuzzy Logic`
 
----
+[![View](https://img.shields.io/badge/View%20Repo-EYE--CUE-64ffda?style=flat-square&logo=github&logoColor=black&labelColor=0a192f)](https://github.com/Mxneeb/EYE-CUE-FYP)
 
-### 🎯 Focus Tracker — CV Productivity Companion
-[![Focus-Tracker](https://github-readme-stats.vercel.app/api/pin/?username=Mxneeb&repo=Focus-Tracker&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/Mxneeb/Focus-Tracker)
+</td>
+<td width="50%" valign="top">
 
-> **Real-time facial state tracker** — Monitors attention, fatigue, frustration, and engagement levels using computer vision. Displays live stats as percentages and delivers personalized AI coaching messages to keep you locked in.
+### 🧠 [LLM Unlearning — Enhanced Framework](https://github.com/Mxneeb/llm-unlearning-enhanced)
+> **Advanced AI alignment architecture** for selectively erasing sensitive data, targeted knowledge, or specific behaviors from large language models using high-precision LoRA-masking — without compromising base capabilities.
 
-`Python` `OpenCV` `Computer Vision` `PyQt6` `Emotion Detection`
+**Architecture:**
+- `LoRA-Masking` — surgical parameter-level knowledge removal
+- `Gradient Routing` — targeted unlearning per knowledge cluster
+- `Benchmark Preservation` — base capability integrity verified
+- `HuggingFace Integration` — plug-and-play with PEFT/Transformers
 
-</div>
+`Python` `PyTorch` `HuggingFace` `LoRA` `PEFT` `Transformers` `LLMs`
+
+[![View](https://img.shields.io/badge/View%20Repo-LLM%20Unlearning-64ffda?style=flat-square&logo=github&logoColor=black&labelColor=0a192f)](https://github.com/Mxneeb/llm-unlearning-enhanced)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💰 [Financial RAG Agent](https://github.com/Mxneeb/Financial-RAG-agent)
+> **Retrieval-Augmented Generation pipeline** for financial document intelligence. Intelligent chunking, vector retrieval, and LLM reasoning built to handle real financial data with accuracy.
+
+`LangChain` `RAG` `Vector Store` `LLM` `FastAPI` `Python`
+
+[![View](https://img.shields.io/badge/View%20Repo-Financial%20RAG-64ffda?style=flat-square&logo=github&logoColor=black&labelColor=0a192f)](https://github.com/Mxneeb/Financial-RAG-agent)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎵 [Spotify Recommendation System](https://github.com/Mxneeb/Audio-Feature-Extraction-and-Music-Recommendation-System-Using-MFCC-and-ALS)
+> **Distributed music recommendation engine** using MFCC audio feature extraction and Apache Spark's ALS collaborative filtering with MongoDB as the metadata layer.
+
+`Apache Spark` `ALS` `MFCC` `MongoDB` `Python` `Big Data`
+
+[![View](https://img.shields.io/badge/View%20Repo-Spotify%20Rec-64ffda?style=flat-square&logo=github&logoColor=black&labelColor=0a192f)](https://github.com/Mxneeb/Audio-Feature-Extraction-and-Music-Recommendation-System-Using-MFCC-and-ALS)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔍 [TextLens — OCR Desktop App](https://github.com/Mxneeb/TextLens-IMG-PDF-Text-Extractor)
+> **Async OCR desktop application** for extracting text from images and PDFs via Tesseract OCR, wrapped in a PyQt6 interface with theming, file history, and drag & drop.
+
+`Python` `PyQt6` `Tesseract OCR` `OpenCV` `PyMuPDF`
+
+[![View](https://img.shields.io/badge/View%20Repo-TextLens-64ffda?style=flat-square&logo=github&logoColor=black&labelColor=0a192f)](https://github.com/Mxneeb/TextLens-IMG-PDF-Text-Extractor)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 [Focus Tracker — CV Productivity](https://github.com/Mxneeb/Focus-Tracker)
+> **Real-time attention monitoring system** using computer vision. Tracks attention, fatigue, frustration, and engagement levels as live percentages with personalized AI coaching messages.
+
+`Python` `OpenCV` `Computer Vision` `Emotion Detection` `PyQt6`
+
+[![View](https://img.shields.io/badge/View%20Repo-Focus%20Tracker-64ffda?style=flat-square&logo=github&logoColor=black&labelColor=0a192f)](https://github.com/Mxneeb/Focus-Tracker)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -64,32 +127,48 @@ I build **intelligent desktop applications** powered by computer vision and mach
 
 <div align="center">
 
-**Languages**
+**Languages & Core**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**AI / CV / ML**
+**Agentic AI & Automation**
 
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=64ffda)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF0000?style=for-the-badge&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Computer Vision & Deep Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+**Data Science & Big Data**
+
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Web & Cloud**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 **Desktop / GUI**
 
 ![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-FF8C00?style=for-the-badge&logo=python&logoColor=white)
-
-**Tools & Infra**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -99,94 +178,71 @@ I build **intelligent desktop applications** powered by computer vision and mach
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mxneeb&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&include_all_commits=true&count_private=true&hide_border=false" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mxneeb&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mxneeb&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=64ffda&text_color=8b949e&icon_color=64ffda&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mxneeb&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=64ffda&text_color=8b949e&icon_color=64ffda&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Mxneeb&theme=github-dark-blue&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Mxneeb&theme=github-dark-blue&background=0d1117&border=30363d&stroke=30363d&ring=64ffda&fire=ff6b6b&currStreakLabel=64ffda&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" />
+
+</div>
+
+<div align="center">
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mxneeb&theme=react-dark&bg_color=0d1117&color=64ffda&line=64ffda&point=ffffff&area=true&hide_border=true)](https://github.com/Mxneeb)
 
 </div>
 
 ---
 
-## 🐍 Contribution Activity
+## 🏆 Trophies
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mxneeb/Mxneeb/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mxneeb/Mxneeb/output/github-contribution-grid-snake.svg" />
-  <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/Mxneeb/Mxneeb/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<img src="https://github-profile-trophy.vercel.app/?username=Mxneeb&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
 
 </div>
-
-> ℹ️ **To enable the snake animation**, add this GitHub Actions workflow to your repo at `.github/workflows/snake.yml`:
->
-> ```yaml
-> name: Generate Snake Animation
-> on:
->   schedule: [{ cron: "0 0 * * *" }]
->   workflow_dispatch:
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: ${{ github.repository_owner }}
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
 
 ---
 
 ## 📂 All Repositories
 
-| Repo | Description | Language |
-|------|-------------|----------|
-| [🔍 TextLens-IMG-PDF-Text-Extractor](https://github.com/Mxneeb/TextLens-IMG-PDF-Text-Extractor) | OCR desktop app for images & PDFs with PyQt6 GUI | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [🎯 Focus-Tracker](https://github.com/Mxneeb/Focus-Tracker) | CV-powered real-time attention & emotion monitor | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| *(12 more repos)* | *Check the [repositories tab](https://github.com/Mxneeb?tab=repositories) for the full list* | — |
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [👁️ EYE-CUE-FYP](https://github.com/Mxneeb/EYE-CUE-FYP) | Edge AI spatial navigation for blind/low-vision users. On-device Gemma 4, depth + segmentation fusion | `Python` `Depth Anything V2` `YOLO` `Gemma 4` |
+| [🧠 llm-unlearning-enhanced](https://github.com/Mxneeb/llm-unlearning-enhanced) | Selective LLM knowledge removal via high-precision LoRA-masking | `Python` `PyTorch` `HuggingFace` `LoRA` |
+| [💰 Financial-RAG-agent](https://github.com/Mxneeb/Financial-RAG-agent) | RAG pipeline for financial document Q&A and intelligent analysis | `LangChain` `RAG` `Vector Store` `LLM` |
+| [🎵 Audio-Feature-Extraction...ALS](https://github.com/Mxneeb/Audio-Feature-Extraction-and-Music-Recommendation-System-Using-MFCC-and-ALS) | MFCC + Apache Spark ALS collaborative filtering music recommender | `Apache Spark` `MongoDB` `MFCC` |
+| [🔍 TextLens-IMG-PDF-Text-Extractor](https://github.com/Mxneeb/TextLens-IMG-PDF-Text-Extractor) | Async OCR desktop app for images & PDFs with PyQt6 rich GUI | `Python` `PyQt6` `Tesseract OCR` `OpenCV` |
+| [🎯 Focus-Tracker](https://github.com/Mxneeb/Focus-Tracker) | CV-powered real-time attention, fatigue & engagement monitor | `Python` `OpenCV` `Emotion Detection` |
+| [💬 Pulse-Secure-Messaging-Application](https://github.com/Mxneeb/Pulse-Secure-Messaging-Application) | High-performance secure messaging with real-time hardware telemetry | `C#` `Systems Engineering` |
 
 ---
 
-## 📈 Activity Graph
+## 💬 Client Reviews
 
-<div align="center">
+> *"Muneeb truly impressed me — his work went ABOVE and beyond expectations. Exceptional documentation, professionalism, quick responsiveness, and proactive communication."*
+> — **ahmedusman9**, Saudi Arabia 🇸🇦
 
-[![Muneeb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mxneeb&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/Mxneeb)
+> *"Second project with Muneeb and he has been wonderful — delivering something that works really well in a really short time! Very happy!"*
+> — **andreabussolet**, Italy 🇮🇹
 
-</div>
+> *"Muneeb is super fast, great in building AI systems for RAG LLM. If you need a RAG LLM, hire Muneeb!"*
+> — **andreabussolet**, Italy 🇮🇹
 
----
-
-<div align="center">
-
-<!-- Trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=Mxneeb&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" />
-
-</div>
+> *"Exceptional"* — **kunmi0011**, United Kingdom 🇬🇧
 
 ---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a192f,100:0d1117&height=120&section=footer&animation=fadeIn" />
 
-*"The best tool is the one that gets out of your way."*
+**Open to freelance projects, research collaborations, and full-time roles.**
 
-[![GitHub](https://img.shields.io/badge/github.com/Mxneeb-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mxneeb)
+[![Portfolio](https://img.shields.io/badge/mxneebb.vercel.app-64ffda?style=for-the-badge&logo=vercel&logoColor=black)](https://mxneebb.vercel.app)
+[![Email](https://img.shields.io/badge/muneebahmadmuneeb%40hotmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:muneebahmadmuneeb@hotmail.com)
 
 </div>
